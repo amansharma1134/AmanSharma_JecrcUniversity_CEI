@@ -12,30 +12,27 @@ This repository contains the weekly assignments completed during the **Celebal E
 
 ---
 
-## Repository Structure
-
-
----
-
 ## Weekly Assignments
 
 ### Week 1
 - Python Programming Fundamentals
 - NumPy Operations
 - Pandas Data Analysis
-- Data Visualization Basics
+- Stats and its Types
 
 ### Week 2
-- Data Preprocessing
-- Feature Engineering
-- Statistical Analysis
+- Types of ML
+- ML Pipeline
 - Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Feature Scaling
+- Time Series Components
 
 ### Week 3
-- Machine Learning Concepts
-- Model Building
-- Model Evaluation
-- Performance Analysis
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Feature Importance
 
 ---
 
