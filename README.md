@@ -14,26 +14,42 @@ This repository contains the weekly assignments completed during the **Celebal E
 
 ## Weekly Assignments
 
-### Week 1
+### Week 1 - Python
 - Python Programming Fundamentals
 - NumPy Operations
 - Pandas Data Analysis
 - Stats and its Types
 
-### Week 2
+### Week 2 - Classical Machine Learning
 - Types of ML
 - ML Pipeline
+- Bias-Variance Trade-off
+- Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Feature Scaling
 - Time Series Components
 
-### Week 3
+### Week 3 - Classification
 - Logistic Regression
+- Naive Bayes
+- KNN
+- SVM
+- Evaluation Metrics
 - Decision Tree
 - Random Forest
 - Feature Importance
 
+### Week 4 - Intro to DL
+- Perceptron
+- MLP
+- Forward Pass
+- Backpropagation
+- Activation Function
+- Loss Functions
+- Convolution Layer (Pooling,Stride,Padding)
+- Transfer Learning
+  
 ---
 
 ## Technologies Used
