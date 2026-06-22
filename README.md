@@ -49,6 +49,16 @@ This repository contains the weekly assignments completed during the **Celebal E
 - Loss Functions
 - Convolution Layer (Pooling,Stride,Padding)
 - Transfer Learning
+
+### Week 5 - RNN
+- RNN Architecture (Applications)
+- Gates (Forget/Input/Output)
+- Cell State vs Hidden State
+- GRU vs LSTM
+- Attention Mechanism
+- Positional Encoding
+- Transformer Architecture
+- BERT vs GPT
   
 ---
 
