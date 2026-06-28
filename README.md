@@ -59,6 +59,14 @@ This repository contains the weekly assignments completed during the **Celebal E
 - Positional Encoding
 - Transformer Architecture
 - BERT vs GPT
+
+### Week 6 - AE and GAN
+- Autoencoder (Variational)
+- GAN
+- SGD + Momentum, AdaGrad RMSProp Adam
+- Intro to GenAI
+- RAG(LangChain)
+- Prompt Engineering
   
 ---
 
