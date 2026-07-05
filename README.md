@@ -67,6 +67,12 @@ This repository contains the weekly assignments completed during the **Celebal E
 - Intro to GenAI
 - RAG(LangChain)
 - Prompt Engineering
+
+### Week 7 - RAG and LLMs
+- RAG
+- LLM Internals
+- Fine-Tuning(LoRA/PEFT)
+- ReAct Framework
   
 ---
 
