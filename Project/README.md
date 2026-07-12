@@ -245,21 +245,29 @@ The chatbot measures
 - Answer Token Count
 
 ---
+## 📸 Screenshots
 
-# 📸 Screenshots
+### Home Page
 
-Add screenshots here after running the application.
+![Streamlit Home Page](README_assets/home.jpeg)
 
-```
-README_assets/
+---
 
-Streamlit Home Page.jpeg
+### Chatbot
 
-Chat Conversation.jpeg
+![Chat Conversation](README_assets/chat.jpeg)
 
-Neo4j Graph.jpeg
+---
 
-Memory Example.jpeg
+### Neo4j Knowledge Graph
+
+![Neo4j Graph](README_assets/neo4j.jpeg)
+
+---
+
+### Memory Example
+
+![Memory Example](README_assets/memoryexample.jpeg)
 ```
 
 ---
