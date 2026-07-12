@@ -73,6 +73,11 @@ This repository contains the weekly assignments completed during the **Celebal E
 - LLM Internals
 - Fine-Tuning(LoRA/PEFT)
 - ReAct Framework
+
+### Week 8 - Agentic AI 
+- LangGraph
+- AutoGen
+- Agent Evaluation
   
 ---
 
