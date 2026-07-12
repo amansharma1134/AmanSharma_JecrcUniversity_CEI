@@ -1,0 +1,21 @@
+User
+  │
+  ▼
+Streamlit UI
+  │
+  ▼
+LangGraph
+ ├───────────────┐
+ │               │
+ ▼               ▼
+Memory      Knowledge Graph
+ │               │
+ └──────┐   ┌────┘
+        ▼   ▼
+      FAISS Retrieval
+           │
+           ▼
+        Ollama LLM
+           │
+           ▼
+        Final Answer
