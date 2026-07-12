@@ -56,7 +56,6 @@ Memory-Augmented-Chatbot
 ├── app.py
 ├── requirements.txt
 ├── .env
-├── README.md
 │
 ├── api/
 ├── app/
