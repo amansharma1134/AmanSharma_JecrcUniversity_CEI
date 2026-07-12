@@ -1,1 +1,11 @@
+Artificial Intelligence (AI) is the field of computer science focused on building systems that can perform tasks requiring human intelligence.
 
+Machine Learning (ML) is a subset of AI that enables computers to learn from data without explicit programming.
+
+Deep Learning is a subset of Machine Learning that uses neural networks with multiple hidden layers.
+
+Natural Language Processing (NLP) enables computers to understand and generate human language.
+
+Retrieval-Augmented Generation (RAG) combines information retrieval with Large Language Models to produce accurate and context-aware responses.
+
+Vector databases store embeddings that represent text as numerical vectors for semantic search.
