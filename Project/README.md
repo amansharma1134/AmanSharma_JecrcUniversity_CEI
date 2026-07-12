@@ -249,25 +249,25 @@ The chatbot measures
 
 ### Home Page
 
-![Streamlit Home Page](README_assets/streamlithomepage.jpeg)
+![Streamlit Home Page](README_assets/Streamlit Home Page.jpeg)
 
 ---
 
 ### Chatbot
 
-![Chat Conversation](README_assets/chatconversation.jpeg)
+![Chat Conversation](README_assets/Chat Conversation.jpeg)
 
 ---
 
 ### Neo4j Knowledge Graph
 
-![Neo4j Graph](README_assets/neo4jgraph.jpeg)
+![Neo4j Graph](README_assets/Neo4j Graph.jpeg)
 
 ---
 
 ### Memory Example
 
-![Memory Example](README_assets/memoryexample.jpeg)
+![Memory Example](README_assets/Memory Example.jpeg)
 ```
 
 ---
